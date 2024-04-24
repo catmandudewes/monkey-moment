@@ -15,10 +15,21 @@ p {
 
 
 #uno {
-  color:blue
-  text-align;center:
+  color:blue;
+  text-align: center;
 }
 
 button{
   text-align:center;
 }
+
+
+#tres {
+  background-color:rgb(142, 234, 142);
+  border-radius: 13px;
+  border-color: coral;
+  height: 51px;
+  font-weight:bold;
+  width: 100px;
+  cursor:pointer;
+}   
