@@ -1,5 +1,8 @@
 body {
-  background-color:white;
+
+  background-image: url("https://codehs.com/uploads/f341bc19edbef2b9462c9067542c8c1d");
+  background-repeat: no-repeat;
+  background-size:1400px 850px;
 }
 h1 {
   text-align:center;
@@ -9,6 +12,10 @@ p {
   text-align:center;
 }
 
+#a{
+    color:cornflowerblue;
+    
+}
 #dos{
   color:firebrick;
 }
@@ -28,8 +35,9 @@ button{
   background-color:rgb(142, 234, 142);
   border-radius: 13px;
   border-color: coral;
-  height: 51px;
+  height: 80px;
   font-weight:bold;
-  width: 100px;
+  width: 250px;
   cursor:pointer;
-}   
+  font-size:
+} 
